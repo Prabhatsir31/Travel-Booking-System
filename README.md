@@ -17,7 +17,7 @@ This is my first react project on "Travel Booking System"
 2. Change to the project directory:
     
     ```bash
-    cd email-client-app
+    cd travel-app
     ```
 3. Install dependencies:
      
