@@ -22,12 +22,12 @@ This is my first react project on "Travel Booking System"
 3. Install dependencies:
      
     ```bash
-        npm install
+    npm install
     ```
 4. Run the project:
 
    ```javascript
-   npm run start
+   npm start
    ```
 
    #### Access the app in your web browser at http://localhost:3000.
