@@ -24,7 +24,17 @@ This is my first react project on "Travel Booking System"
     ```bash
     npm install
     ```
-4. Run the project:
+4. Install the library:
+
+   for icons
+   ```bash
+   npm install react-icons
+   ```
+   for Aos
+   ```bash
+   npm install --save
+   ```
+6. Run the project:
 
    ```javascript
    npm start
